@@ -1,0 +1,23 @@
+tests/onboarding/sandboxes/test_daytona.py
+  s_e36cb894d5b626::t_fcd4dcf735f407 529-540
+omnigent/onboarding/sandboxes/daytona.py
+  s_e36cb894d5b626::t_fcd4dcf735f407 92-96
+deploy/daytona/README.md
+  s_e36cb894d5b626::t_fcd4dcf735f407 319
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.5",
+  "base_commit_sha": "9a0c40af206769dfd24ff10cf69e9a3df1b693a7",
+  "prompts": {},
+  "sessions": {
+    "s_e36cb894d5b626": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_e0be8f2e4ffecTrtXEvu0srmg2",
+        "model": "gpt-6-luna-fast"
+      },
+      "human_author": "Mislav Ivanda <mislavivanda454@gmail.com>"
+    }
+  }
+}
